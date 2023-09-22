@@ -1,9 +1,11 @@
 # React Native tutorial
 
+### Run project
+
 ```
 yarn
 ```
 
 ```
-yarn run dev
+yarn start
 ```
